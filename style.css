@@ -1,11 +1,13 @@
 /* Set Fonts and Resets */
 body,
 html {
-  background: gray;
+  background: #B22222;
   margin: 0;
   overflow-x: hidden;
   padding: 0;
 }
+
+
 
 /* With Flexbox, Horizontally and vertically cneter */
 body {
